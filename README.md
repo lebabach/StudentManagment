@@ -1,5 +1,7 @@
 # StudentManagment
-Base on RMI, Could use 2 machine to connect earch other.
+Base on RMI
+Importing 2 packages on 2 different machines (server, client)
+Client can call apis to get datas from server by remoting 
 Use netbean
 
 =============
